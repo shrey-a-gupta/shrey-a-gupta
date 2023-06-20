@@ -36,20 +36,28 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrey-a-gupta&" alt="shrey-a-gupta" /></p>
 
-👋 Hello, I'm Shreya Gupta, a passionate Software Engineer with a focus on Machine Learning, Artificial Intelligence, DevOps, and Backend development.
+👋 Welcome to my GitHub profile! I'm passionate about pushing the boundaries of technology and exploring its limitless possibilities.
 
-🎓 I recently completed my B.Tech in Information Technology from PSIT, Kanpur in June 2023, equipping me with a strong foundation in software engineering principles and practices.
+💻 As a versatile Software Engineer, I specialize in various domains including Machine Learning, Artificial Intelligence, DevOps, and Backend development.
 
-💻 As an Automation Developer Intern at Ericsson, I gained hands-on experience in developing robust automated solutions, enhancing my skills in problem-solving and efficient software development.
+🚀 With a solid foundation in software engineering principles and practices, I strive to create efficient, scalable, and impactful solutions.
 
-🔍 Currently, I am actively seeking job opportunities as a Software Engineer, ML Engineer, DevOps Engineer, or Research Engineer, eager to apply my knowledge and contribute to impactful projects.
+🌟 I believe in the power of collaboration and open-source contributions. You'll often find me actively participating in diverse projects, sharing knowledge, and mentoring aspiring developers.
 
-🌟 I am proud to be a contributor at GSSoC'23 and SSoC'23, collaborating with talented individuals to create open-source software that makes a difference.
+📚 Lifelong learning is my mantra. I constantly embrace new technologies, stay up-to-date with the latest industry trends, and experiment with cutting-edge tools.
 
-🤖 With expertise in machine learning algorithms, AI frameworks, DevOps tools, and backend development, I strive to leverage technology to tackle real-world challenges and drive innovation.
+⚡️ Whether it's developing intelligent algorithms, architecting robust systems, or optimizing performance, I enjoy solving complex problems and delivering exceptional results.
 
-🌐 In my free time, you'll find me exploring the latest advancements in the tech world, experimenting with new programming languages and frameworks, and solving algorithmic puzzles.
+🌐 When I'm not coding, you'll find me exploring the great outdoors, indulging in photography, or enjoying a good book.
 
-✉️ I'm open to collaborations, exciting projects, and job opportunities. Feel free to connect with me via email at shreya00117@gmail.com 
+✉️ I'm always open to exciting opportunities, collaborations, and connections. Feel free to reach out to me via email at shreya00117@gmail.com, and let's discuss how we can shape the future together.
 
-Let's shape the future through code and innovation! 💻🚀
+🔗 Connect with me on LinkedIn https://www.linkedin.com/in/shreya-gupta-a417431b4/ to learn more about my experience and achievements.
+
+Let's innovate, inspire, and make a positive impact through technology! 💡💻🌍
+
+        / \__
+      (    @\___
+      /         O
+     /   (_____/
+    /_____/   U
