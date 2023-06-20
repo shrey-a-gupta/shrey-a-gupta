@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreya Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Software Engineer, who is not limited to any technology, but loves to explore and get my hands on whatever interests me.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrey-a-gupta&label=Profile%20views&color=0e75b6&style=flat" alt="shrey-a-gupta" /> </p>
 
