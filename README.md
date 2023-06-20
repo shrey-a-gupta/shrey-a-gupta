@@ -52,7 +52,7 @@
 
 ✉️ I'm always open to exciting opportunities, collaborations, and connections. Feel free to reach out to me via email at shreya00117@gmail.com, and let's discuss how we can shape the future together.
 
-🔗 Connect with me on LinkedIn https://www.linkedin.com/in/shreya-gupta-a417431b4/ to learn more about my experience and achievements.
+🔗 Connect with me on LinkedIn [https://www.linkedin.com/in/shreya-gupta-a417431b4/] to learn more about my experience and achievements.
 
 Let's innovate, inspire, and make a positive impact through technology! 💡💻🌍
 
