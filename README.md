@@ -51,4 +51,5 @@
 🌐 In my free time, you'll find me exploring the latest advancements in the tech world, experimenting with new programming languages and frameworks, and solving algorithmic puzzles.
 
 ✉️ I'm open to collaborations, exciting projects, and job opportunities. Feel free to connect with me via email at shreya00117@gmail.com 
+
 Let's shape the future through code and innovation! 💻🚀
