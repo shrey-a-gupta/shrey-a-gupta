@@ -46,6 +46,6 @@
 
 🤖 My expertise includes machine learning algorithms, AI frameworks, DevOps tools, and backend development using various programming languages.
 
-✉️ Feel free to reach out to me for collaborations, job opportunities, or just to connect. You can contact me via email at [your_email@example.com].
+✉️ Feel free to reach out to me for collaborations, job opportunities, or just to connect. You can contact me via email at [shreya00117@gmail.com].
 
 Let's code the future together! 💻🌍
