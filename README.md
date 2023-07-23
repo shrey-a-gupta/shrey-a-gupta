@@ -1,63 +1,189 @@
-<h1 align="center">Hi 👋, I'm Shreya Gupta</h1>
-<h3 align="center">A Software Engineer, who is not limited to any technology, but loves to explore and get my hands on whatever interests me.</h3>
+\documentclass[letterpaper,11pt]{article}
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shrey-a-gupta&label=Profile%20views&color=0e75b6&style=flat" alt="shrey-a-gupta" /> </p>
+ 
 
-<p align="left"> <a href="https://twitter.com/shreya00117" target="blank"><img src="https://img.shields.io/twitter/follow/shreya00117?logo=twitter&style=for-the-badge" alt="shreya00117" /></a> </p>
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{fontawesome5}
 
-- 🔭 I’m currently working on [EdgeChains](https://github.com/arakoodev/edgechains)
+ 
 
-- 🌱 I’m currently learning **DevOps, Kubernetes, Artificial Intelligence, Machine Learning**
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
 
-- 👯 I’m looking to collaborate on **AI and ML Projects in Various Open Source Programs**
+ 
 
-- 💬 Ask me about **Artificial Intelligence, Machine Learning, Java**
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
 
-- 📫 How to reach me **shreya00117@gmail.com**
+ 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iDH8hmdizxBMCzbhrvPTd5JOA4KLKlz-/view?usp=sharing](https://drive.google.com/file/d/1iDH8hmdizxBMCzbhrvPTd5JOA4KLKlz-/view?usp=sharing)
+\urlstyle{same}
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shreya00117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreya00117" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shreya-gupta-a417431b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreya-gupta-a417431b4" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shre_ya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shre_ya" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/shreya00117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shreya00117" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shreya_711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreya_711" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/shreya gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="shreya gupta" height="30" width="40" /></a>
-</p>
+ 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrey-a-gupta&show_icons=true&locale=en&layout=compact" alt="shrey-a-gupta" /></p>
+ 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrey-a-gupta&show_icons=true&locale=en" alt="shrey-a-gupta" /></p>
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrey-a-gupta&" alt="shrey-a-gupta" /></p>
+ 
 
-👋 Welcome to my GitHub profile! I'm passionate about pushing the boundaries of technology and exploring its limitless possibilities.
+% Ensure that generated PDF is machine readable/ATS parsable
+\pdfgentounicode=1
 
-💻 As a versatile Software Engineer, I specialize in various domains including Machine Learning, Artificial Intelligence, DevOps, and Backend development.
+ 
 
-🚀 With a solid foundation in software engineering principles and practices, I strive to create efficient, scalable, and impactful solutions.
+% Custom commands
+\newcommand{\resumeItem}[1]{\item\small{#1\vspace{-2pt}}}
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small#4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small#2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
 
-🌟 I believe in the power of collaboration and open-source contributions. You'll often find me actively participating in diverse projects, sharing knowledge, and mentoring aspiring developers.
+\begin{document}
+\begin{center}
+    \textbf{\Huge \scshape SHREYA GUPTA} \\ \vspace{10 pt}
+    \small{\raisebox{-0.2\height}{\faPhone} \underline{Mobile: 7251083279} $|$ \raisebox{-0.2\height}{\faEnvelope} \underline{Email: shreya00117@gmail.com} $|$ \raisebox{-0.2\height}{\faLinkedin} \underline{\href{https://bit.ly/3MRRsbv}{LinkedIn}} $|$ \raisebox{-0.2\height}{\faGithub} \underline{\href{https://bit.ly/3CUpYgH}{GitHub}}}
+\end{center}
 
-📚 Lifelong learning is my mantra. I constantly embrace new technologies, stay up-to-date with the latest industry trends, and experiment with cutting-edge tools.
+\section{\textbf{EDUCATION}}
+\resumeSubHeadingListStart
+\resumeSubheading
+{\textbf{Pranveer Singh Institute Of Technology, Kanpur, U.P.}}{\textbf{August 2019 -- June 2023}}
+{{Bachelor of Technology in Information Technology}}{{7.6 CGPA}}
+\resumeSubheading
+{\textbf{Harrow Public School, Bareilly, U.P.}}{\textbf{April 2018 -- May 2019}}
+{{PCM}}{\textbf{}}
+\resumeSubHeadingListEnd
 
-⚡️ Whether it's developing intelligent algorithms, architecting robust systems, or optimizing performance, I enjoy solving complex problems and delivering exceptional results.
+\section{\textbf{WORK EXPERIENCE}}
+\resumeSubHeadingListStart
+\resumeSubheading
+{\textbf{Ericsson India Global Services}}{\textbf{January 2023 -- July 2023}}
+{{Intern}}{Noida, India}
+\resumeItemListStart \vspace{5 pt}
+\resumeItem{\textbf{Skills}: HTML, CSS, JavaScript, Java, JIRA, MySQL, Automation Testing, Groovy}
+\resumeItem{Developed automation workflows using Java, that help to generate updated reports and send them on mails. }
+\resumeItem{Developed health-check of automation to check the current status for a particular network.}
+\resumeItem{Worked on ENABLE tool, an automation tool to create workflows that help perform parsing in the data.}
+\resumeItemListEnd
 
-🌐 When I'm not coding, you'll find me exploring the great outdoors, indulging in photography, or enjoying a good book.
+\vspace{5 pt}
+\resumeSubheading
+{\textbf{GirlScript Summer Of Code 2023}}{\textbf{June 2023 - Ongoing}}
+{{Open Source Contributor}}{Remote}
+\resumeItemListStart \vspace{5 pt}
+\resumeItem{\textbf{Tech Stack Used}: Java, HTML, CSS, JavaScript, Git, GitHub, Machine Learning}
+\resumeItem{Contributing to open source projects under the mentorship of experienced mentors.}
+\resumeItem{\textbf{Badge}:  GirlScript Summer of Code 2023 (\href{https://certificate.givemycertificate.com/c/8aa16808-3f7e-4862-8049-f78bde93b850}{Certificate})}
+\resumeItemListEnd
 
-✉️ I'm always open to exciting opportunities, collaborations, and connections. Feel free to reach out to me via email at shreya00117@gmail.com, and let's discuss how we can shape the future together.
+\vspace{5 pt}
+\resumeSubheading 
+{\textbf{Social Summer of Code 2023}}{\textbf{May 2023 - Ongoing}}
+{{Open Source Contributor}}{Remote}
+\resumeItemListStart  \vspace{5 pt}
+\resumeItem{\textbf{Tech Stack Used}: Java, HTML, CSS, JavaScript, Machine Learning, Git, GitHub, Artificial Intelligence}
+\resumeItem{Contributing to open source projects under the mentorship of experienced mentors.}
+\resumeItem{\textbf{Badge}: Social Summer of Code 2023 (\href{https://drive.google.com/file/d/1y4p3lsL23SCQhF957huoIHbGitRwlHSB/view?usp=share_link}{Certificate})}
+\resumeItemListEnd
 
-🔗 Connect with me on LinkedIn [https://www.linkedin.com/in/shreya-gupta-a417431b4/] to learn more about my experience and achievements.
+ 
 
-Let's innovate, inspire, and make a positive impact through technology! 💡💻🌍
+\resumeSubHeadingListEnd
 
-        / \__
-      (    @\___
-      /         O
-     /   (_____/
-    /_____/   U
+ 
+\vspace{5 pt}
+
+\section{\textbf{PROJECTS}}
+\resumeSubHeadingListStart
+
+ 
+
+\resumeProjectHeading
+{\textbf{Detection of diseases in Chest X-Ray Images}}{Sept. 2022 - Jan. 2023}
+\resumeItemListStart
+\resumeItem{\textbf{Tech Stack Used}: DenseNet, TensorFlow, MobileNet, Vgg-16}
+\resumeItem{Implemented various CNN models for the detection of Pneumonia in X-Ray image dataset.}
+\resumeItem{Aimed to reach the highest accuracy on the given dataset by implementing pre-trained models.}
+\resumeItem{Enhanced the accuracy of the dataset from 72\% to 92\% using Gaussian filter and image equalization.}
+\resumeItemListEnd
+
+ 
+
+\resumeProjectHeading
+{\textbf{Travel App}}{Sept. 2020 - Jan. 2021}
+\resumeItemListStart
+\resumeItem{\textbf{Tech Stack Used}: Java, HTML, CSS, JavaScript, Node.js}
+\resumeItem{Developed the feature to select a tourist destination based on the current location.}
+\resumeItem{Added a module to filter the choice as per the budget.}
+\resumeItem{Used Node.js to develop the backend of the application as well as add a database for storing user's data.}
+\resumeItemListEnd
+
+ 
+
+\resumeProjectHeading
+{\textbf{A College Website}}{March 2020 -- June 2020}
+\resumeItemListStart
+\resumeItem{\textbf{Tech Stack Used}: HTML5, CSS3, JavaScript}
+\resumeItem{Implemented 5 modules in the website: Home, Course, Download, Contact, Login}
+\resumeItem{Developed a Download module to download PDFs of books.}
+\resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+\section{\textbf{SKILLS}}
+\begin{itemize}[leftmargin=0.15in, label={}]
+    \item \textbf{Languages}: Java, C, Python, C++, MySQL, JavaScript, HTML, CSS, Groovy
+    \item \textbf{Skills}: Node.js, Deep Learning, Data Structures, Object Oriented Programming, Machine learning, Git, GitHub
+    \item \textbf{Developer Tools}: Git, VS Code, Eclipse, Android Studio
+    \item \textbf{Soft Skills}: Public Speaking, Written communication, Analytical Skills
+\end{itemize}
+
+ 
+
+\end{document}
