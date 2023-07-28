@@ -1,65 +1,63 @@
-# SHREYA GUPTA
+<h1 align="center">Hi 👋, I'm Shreya Gupta</h1>
+<h3 align="center">A Software Engineer, who is not limited to any technology, but loves to explore and get my hands on whatever interests me.</h3>
 
-📞 Mobile: 7251083279 | 📧 Email: shreya00117@gmail.com | 🔗 LinkedIn: [LinkedIn](https://bit.ly/3MRRsbv) | 🔗 GitHub: [GitHub](https://bit.ly/3CUpYgH)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shrey-a-gupta&label=Profile%20views&color=0e75b6&style=flat" alt="shrey-a-gupta" /> </p>
 
-## EDUCATION
-- **Bachelor of Technology in Information Technology**
-  Pranveer Singh Institute Of Technology, Kanpur, U.P.
-  August 2019 -- June 2023
-  CGPA: 7.6
+<p align="left"> <a href="https://twitter.com/shreya00117" target="blank"><img src="https://img.shields.io/twitter/follow/shreya00117?logo=twitter&style=for-the-badge" alt="shreya00117" /></a> </p>
 
-- **PCM**
-  Harrow Public School, Bareilly, U.P.
-  April 2018 -- May 2019
+- 🔭 I’m currently working on [EdgeChains](https://github.com/arakoodev/edgechains)
 
-## WORK EXPERIENCE
-- **Intern**
-  Ericsson India Global Services
-  Noida, India
-  January 2023 -- July 2023
-  - Skills: HTML, CSS, JavaScript, Java, JIRA, MySQL, Automation Testing, Groovy
-  - Developed automation workflows using Java, generating and sending updated reports via emails.
-  - Implemented health-check of automation to monitor the current network status.
-  - Worked on the ENABLE tool for parsing data.
+- 🌱 I’m currently learning **DevOps, Kubernetes, Artificial Intelligence, Machine Learning**
 
-- **Open Source Contributor**
-  GirlScript Summer Of Code 2023
-  Remote
-  June 2023 - Ongoing
-  - Tech Stack Used: Java, HTML, CSS, JavaScript, Git, GitHub, Machine Learning
-  - Contributing to open source projects under the mentorship of experienced mentors.
-  - Badge: [GirlScript Summer of Code 2023](https://certificate.givemycertificate.com/c/8aa16808-3f7e-4862-8049-f78bde93b850)
+- 👯 I’m looking to collaborate on **AI and ML Projects in Various Open Source Programs**
 
-- **Open Source Contributor**
-  Social Summer of Code 2023
-  Remote
-  May 2023 - Ongoing
-  - Tech Stack Used: Java, HTML, CSS, JavaScript, Machine Learning, Git, GitHub, Artificial Intelligence
-  - Contributing to open source projects under the mentorship of experienced mentors.
-  - Badge: [Social Summer of Code 2023](https://drive.google.com/file/d/1y4p3lsL23SCQhF957huoIHbGitRwlHSB/view?usp=share_link)
+- 💬 Ask me about **Artificial Intelligence, Machine Learning, Java**
 
-## PROJECTS
-- **Detection of diseases in Chest X-Ray Images**
-  Sept. 2022 - Jan. 2023
-  - Tech Stack Used: DenseNet, TensorFlow, MobileNet, Vgg-16
-  - Implemented various CNN models for Pneumonia detection in X-Ray images.
-  - Achieved an accuracy of 92% using pre-trained models, Gaussian filter, and image equalization.
+- 📫 How to reach me **shreya00117@gmail.com**
 
-- **Travel App**
-  Sept. 2020 - Jan. 2021
-  - Tech Stack Used: Java, HTML, CSS, JavaScript, Node.js
-  - Developed a feature to select a tourist destination based on the current location.
-  - Added a module to filter choices as per the budget.
-  - Used Node.js for the backend and database.
+- 📄 Know about my experiences [https://drive.google.com/file/d/1iDH8hmdizxBMCzbhrvPTd5JOA4KLKlz-/view?usp=sharing](https://drive.google.com/file/d/1iDH8hmdizxBMCzbhrvPTd5JOA4KLKlz-/view?usp=sharing)
 
-- **A College Website**
-  March 2020 -- June 2020
-  - Tech Stack Used: HTML5, CSS3, JavaScript
-  - Implemented 5 modules: Home, Course, Download, Contact, Login
-  - Developed Download module for downloading PDFs of books.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/shreya00117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreya00117" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shreya-gupta-a417431b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreya-gupta-a417431b4" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/shre_ya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shre_ya" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/shreya00117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shreya00117" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shreya_711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreya_711" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/shreya gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="shreya gupta" height="30" width="40" /></a>
+</p>
 
-## SKILLS
-- **Languages**: Java, C, Python, C++, MySQL, JavaScript, HTML, CSS, Groovy
-- **Skills**: Node.js, Deep Learning, Data Structures, Object Oriented Programming, Machine Learning, Git, GitHub
-- **Developer Tools**: Git, VS Code, Eclipse, Android Studio
-- **Soft Skills**: Public Speaking, Written Communication, Analytical Skills
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrey-a-gupta&show_icons=true&locale=en&layout=compact" alt="shrey-a-gupta" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrey-a-gupta&show_icons=true&locale=en" alt="shrey-a-gupta" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrey-a-gupta&" alt="shrey-a-gupta" /></p>
+
+👋 Welcome to my GitHub profile! I'm passionate about pushing the boundaries of technology and exploring its limitless possibilities.
+
+💻 As a versatile Software Engineer, I specialize in various domains including Machine Learning, Artificial Intelligence, DevOps, and Backend development.
+
+🚀 With a solid foundation in software engineering principles and practices, I strive to create efficient, scalable, and impactful solutions.
+
+🌟 I believe in the power of collaboration and open-source contributions. You'll often find me actively participating in diverse projects, sharing knowledge, and mentoring aspiring developers.
+
+📚 Lifelong learning is my mantra. I constantly embrace new technologies, stay up-to-date with the latest industry trends, and experiment with cutting-edge tools.
+
+⚡️ Whether it's developing intelligent algorithms, architecting robust systems, or optimizing performance, I enjoy solving complex problems and delivering exceptional results.
+
+🌐 When I'm not coding, you'll find me exploring the great outdoors, indulging in photography, or enjoying a good book.
+
+✉️ I'm always open to exciting opportunities, collaborations, and connections. Feel free to reach out to me via email at shreya00117@gmail.com, and let's discuss how we can shape the future together.
+
+🔗 Connect with me on LinkedIn [https://www.linkedin.com/in/shreya-gupta-a417431b4/] to learn more about my experience and achievements.
+
+Let's innovate, inspire, and make a positive impact through technology! 💡💻🌍
+
+        / \__
+      (    @\___
+      /         O
+     /   (_____/
+    /_____/   U
