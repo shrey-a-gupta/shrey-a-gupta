@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/shreya00117" target="blank"><img src="https://img.shields.io/twitter/follow/shreya00117?logo=twitter&style=for-the-badge" alt="shreya00117" /></a> </p>
 
-- 🔭 I’m currently working on [EdgeChains](https://github.com/arakoodev/edgechains)
+- 🔭 I’m currently contributing in [Layer5](https://github.com/layer5io/layer5)
 
 - 🌱 I’m currently learning **DevOps, Kubernetes, Artificial Intelligence, Machine Learning**
 
